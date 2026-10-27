@@ -11,7 +11,8 @@
 4. **Xử lý thông minh cảnh báo tivi:** Tự động nhắc nhở người dùng thao tác bấm *Cho phép / Allow* trên màn hình tivi ở lần kết nối đầu tiên.
 
 ---
-![Uploading image.png…]()
+<img width="737" height="884" alt="PSA" src="https://github.com/user-attachments/assets/7884cf7c-cd36-4093-9dcd-52caed6d0755" />
+
 
 ## 🚀 Hướng dẫn sử dụng nhanh (Dành cho người mới)
 
