@@ -9,7 +9,6 @@
 2. **Giao diện trực quan:** Hộp thoại nhập IP tivi và vùng **Kéo thả file APK (Drag & Drop)** cực mượt.
 3. **Vượt rào phân vùng khóa:** Sử dụng giao thức ADB không dây qua cổng `5555` để đẩy file thẳng vào phân vùng tạm được cấp quyền ghi (`/data/local/tmp/`), lách trọn mọi lỗi chặn từ X-plore hoặc ROM nhà mạng.
 4. **Xử lý thông minh cảnh báo tivi:** Tự động nhắc nhở người dùng thao tác bấm *Cho phép / Allow* trên màn hình tivi ở lần kết nối đầu tiên.
-**TẢI XUỐNG**
 <div align="center">
 
   <a href="https://github.com/Pimax98/Pimax-Setup-APK/releases/download/v1.0.0/Pimax-Setup-APK.exe">
@@ -17,9 +16,9 @@
   </a>
 
 </div>
----
+<div align="center">
 <img width="737" height="884" alt="PSA" src="https://github.com/user-attachments/assets/7884cf7c-cd36-4093-9dcd-52caed6d0755" />
-
+</div>
 
 ## 🚀 Hướng dẫn sử dụng nhanh (Dành cho người mới)
 
