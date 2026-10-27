@@ -16,7 +16,8 @@
 
 ### Bước 1: Chuẩn bị thiết bị & Kết nối mạng
 * Đảm bảo **Laptop và TV Box** của bạn đang kết nối chung một mạng Wi-Fi (hoặc mạng LAN).
-* Trên tivi, vào mục **Cài đặt -> Giới thiệu -> Bấm 7 lần vào "Số bản dựng" (Build Number)** để mở tùy chọn nhà phát triển. Vào mục nhà phát triển, bật **Gỡ lỗi USB / ADB qua mạng**. Lấy địa chỉ IP của tivi (Ví dụ: `192.168.1.128`).
+* **Nếu dùng BoxTivi thì bỏ qua bước này:**
+  Trên tivi, vào mục **Cài đặt -> Giới thiệu -> Bấm 7 lần vào "Số bản dựng" (Build Number)** để mở tùy chọn nhà phát triển. Vào mục nhà phát triển, bật **Gỡ lỗi USB / ADB qua mạng**. Lấy địa chỉ IP của tivi (Ví dụ: `192.168.1.128`).
 
 ### Bước 2: Chạy phần mềm Pimax Setup APK
 1. Mở ứng dụng `Pimax Setup APK` trên máy tính.
